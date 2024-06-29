@@ -4,6 +4,10 @@ Run Fish <°))>< shell as your default yazi shell.
 
 ## Previews
 
+
+https://github.com/AnirudhG07/fish.yazi/assets/146579014/bb743dc3-2400-47c6-9e4f-33bfbbe8b295
+
+
 ## Requirements
 
 Yazi version 0.2.5 or higher. And of course, fish shell as default shell.
